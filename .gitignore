@@ -1,0 +1,6 @@
+.env
+.dev
+secrets.txt
+passwords.txt
+node_modules
+dist
